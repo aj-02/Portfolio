@@ -20,12 +20,12 @@ function Home() {
             <Header noBack="true" />
             <div>
                 <div className="memoji-container">
-                    <img src={memoji} alt="megh's memoji" className="memoji" />
-                    <img src={hand} alt="megh's memoji" className="hand" />
+                    <img src={memoji} alt="arnav's memoji" className="memoji" />
+                    <img src={hand} alt="arnav's memoji" className="hand" />
                 </div>
 
             </div>
-            <h1>Hi, I{"'"}m Arnav!</h1>
+            <h1>Hi, I{"'"}m Arnav Johri !</h1>
             <div className='tagline'>
                 <code>Code, Netflix, Chill, Repeat.</code>
 
